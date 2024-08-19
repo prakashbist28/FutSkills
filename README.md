@@ -2,7 +2,10 @@
 
 The assignment is fully responsive and functional. 
 
+
 Technologies used:
+
+
 1. Reactjs
 2. Nodejs
 3. MongoDB
@@ -10,6 +13,9 @@ Technologies used:
 5. Express
 6. Mongoose
 7. Packages like toastify, cors, axios and many more.
+
+
+
 
 
 Screenshots :
@@ -141,6 +147,8 @@ card has been added
 
 
 
+
+Schema :  In the Card schema I didnot include id as id would be provided by default. 
 
 
 

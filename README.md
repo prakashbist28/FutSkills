@@ -9,6 +9,7 @@ Technologies used:
 4. TailwindCSS
 5. Express
 6. Mongoose
+7. Packages like toastify, cors, axios and many more.
 
 
 Screenshots :
@@ -46,6 +47,10 @@ User can search cards based on their titles. As user keeps typing, all the cards
 
 
 
+
+
+
+
 CardDetails page:
 
 
@@ -57,6 +62,11 @@ On clicking on any card we can open a page with details of that particular card
 
 
 ![image](https://github.com/user-attachments/assets/05aeaffd-1cd1-4cc2-b8d1-a6f00aee7c10)
+
+
+
+
+
 
 
 

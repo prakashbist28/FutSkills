@@ -11,7 +11,7 @@ Technologies used:
 6. Mongoose
 
 
-Scrrenshots :
+Screenshots :
 
 
 Main page:
@@ -36,7 +36,7 @@ User can search cards based on their titles. As user keeps typing, all the cards
 
 
 
-![image](https://github.com/user-attachments/assets/3e07c0d3-fdd1-4e43-b5f1-e120115d0521)
+![image](https://github.com/user-attachments/assets/9b73272c-75e2-4e75-ba29-fae5b0d6f556)
 
 
 

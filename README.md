@@ -1,5 +1,96 @@
 # Help Center API Assignment
 
+The assignment is fully responsive and functional. 
+
+Technologies used:
+1. Reactjs
+2. Nodejs
+3. MongoDB
+4. TailwindCSS
+5. Express
+6. Mongoose
+
+
+Scrrenshots :
+
+
+Main page:
+
+![localhost_3000_ (1)](https://github.com/user-attachments/assets/d690d546-3283-462f-89a1-4f943cb584f0)
+
+
+
+
+Search Bar:
+
+User can search cards based on their titles. As user keeps typing, all the cards which have such continuos string as titlse are displayed as suggestions. On clicking on any of those will fill the search bar with their full title. And on clicking search button(right arrow button) cards component which is below search compnent will get updated and show only those cards with search title name.
+
+
+![localhost_3000_ (3)](https://github.com/user-attachments/assets/d892cd13-cea5-4073-b18d-de4d17106723)
+
+
+![image](https://github.com/user-attachments/assets/65e8e3d9-efb9-474f-9ec8-8f58fd222f7d)
+
+
+![image](https://github.com/user-attachments/assets/3e07c0d3-fdd1-4e43-b5f1-e120115d0521)
+
+
+![image](https://github.com/user-attachments/assets/92ea6b4e-e156-4b43-8432-fe12072e6bec)
+
+
+
+
+CardDetails page:
+
+On clicking on any card we can open a page with details of that particular card
+
+![image](https://github.com/user-attachments/assets/0fbc50bf-1cec-4e36-9647-1a0adf526afc)
+
+
+![image](https://github.com/user-attachments/assets/05aeaffd-1cd1-4cc2-b8d1-a6f00aee7c10)
+
+
+
+Add cards /  Submit request :
+
+There was no mention of what needs to be done with submit request button in header component. So I made it work in such a way that User can add new cards by clicking on submit request button and navigating to addcards pages where he can add new cards. made use of Link property of react-router-dom
+
+
+![image](https://github.com/user-attachments/assets/223a9080-94fb-4da1-a3d1-07a29d4aa6ff)
+
+
+![image](https://github.com/user-attachments/assets/fac7ad5d-3fb7-4139-8e8a-4853dc90ba96)
+
+
+added processing animation
+![image](https://github.com/user-attachments/assets/2dabdfc5-34ed-4a94-bc1e-1258b0c4c891)
+
+
+made use of toastify to show success messages
+
+![image](https://github.com/user-attachments/assets/efa0d85b-415e-4b2b-988d-113b0b19b15d)
+
+
+New cards have been added
+
+![image](https://github.com/user-attachments/assets/70690f3f-7831-4bd5-8dd1-2cc0b4108d98)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Instructions
 
 1. **Clone the Repository:**
